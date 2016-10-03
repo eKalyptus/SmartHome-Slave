@@ -4,7 +4,7 @@ Scripts for the Arduino Slaves that are Communicating with the Base Raspberry Pi
 ##Requirements
 - Arduino
 - 433mHz Transmitter
-- Base Raspberry Pi with Script Running
+- Base Raspberry Pi with Script Running ([?](https://github.com/k0a1adev/SmartHome-Base))
 - USB Cable to connect the Arduino and Raspberry Pi
 - The [RCSwitch](https://github.com/sui77/rc-switch) Library
 - [Arduino IDE](https://www.arduino.cc/en/Main/Software)
