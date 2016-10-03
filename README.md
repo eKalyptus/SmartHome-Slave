@@ -16,5 +16,5 @@ Scripts for the Arduino Slaves that are Communicating with the Base Raspberry Pi
 Just load the Script onto your Arduino of choice, disconnect it and connect it to the Raspberry Pi with the USB Cable. You are ready to go!
 
 ##Future Plans
-- Adding new Sensor (Temperature Sensor, Light Sensor, Motion Sensor)
+- Adding new Sensors (Temperature Sensor, Light Sensor, Motion Sensor)
 - Adding Relais
