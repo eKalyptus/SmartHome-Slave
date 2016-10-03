@@ -7,7 +7,7 @@ Scripts for the Arduino Slaves that are Communicating with the Base Raspberry Pi
 - Base Raspberry Pi with Script Running
 - USB Cable to connect the Arduino and Raspberry Pi
 - The [RCSwitch](https://github.com/sui77/rc-switch) Library
-- Arduino IDE
+- [Arduino IDE](https://www.arduino.cc/en/Main/Software)
 
 ##Wiring
 - 433Mhz Transmitter (Pin \#10) 
