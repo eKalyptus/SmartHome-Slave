@@ -1,2 +1,12 @@
 # SmartHome-Slave
-Scripts for the Arduino Slaves
+Scripts for the Arduino Slaves that are Communicating with the Base Raspberry Pi via the Serial Port.
+
+##Requirements
+- Base Raspberry Pi with Script Running
+- USB Cable to connect the Arduino and Raspberry Pi
+
+##Wiring
+- 433Mhz Transmitter (Pin \#10) 
+
+##Usage
+Just load the Script onto your Arduino of choice, disconnect it and connect it to the Raspberry Pi with the USB Cable. You are ready to go!
